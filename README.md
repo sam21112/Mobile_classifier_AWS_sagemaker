@@ -1,4 +1,5 @@
 # Mobile Classifier on AWS SageMaker
+A machine learning project that involves creating a mobile classifier using AWS SageMaker, showcasing end-to-end deployment and scaling in the cloud.
 
 ## Project Overview
 This project demonstrates the deployment of a mobile classifier model using AWS SageMaker. It includes scripts for training the model, deploying it as a SageMaker endpoint, and a sample application to interact with the deployed model.
